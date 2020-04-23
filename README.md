@@ -2,4 +2,4 @@
 
 Built using the [Bare](http://startbootstrap.com/template-overviews/bare/) template.
 
-MIT Liscense
+MIT License
